@@ -1,7 +1,16 @@
-# Hi there! ✨ I'm Alok Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey, I'm Alok Kumar Singh!
+</h1>
 
-![Alok's GitHub Banner](https://user-images.githubusercontent.com/104123989/221757980-58d16a85-2265-4aeb-84dc-bd16d2598971.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Software+Developer+%7C+Problem+Solver;LeetCode+Knight+%7C+Among+Top+2%25+Coder;React+%7C+JavaScript+%7C+Node.js+%7C+C%2B%2B;Passionate+about+Learning+and+Building!" alt="Typing SVG">
+</p>
 
+<p align="center">
+  🚀 Currently studying at <b>SNIT Surat</b> <br>
+  🔥 Ranked among the top <b>5% of coders globally</b> on <a href="https://leetcode.com/u/alokkumar9019/">LeetCode</a>
+</p>
 ---
 
 ### About Me 
