@@ -33,6 +33,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alokkumar9019&show_icons=true&theme=radical" width="400px" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=alokkumar9019&theme=radical" width="400px" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkumar9019&layout=compact&theme=radical" width="400px" alt="Most Used Languages">
 </div>
 
 ---
