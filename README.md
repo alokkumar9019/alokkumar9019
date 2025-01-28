@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🚀 Currently studying at <b>SNIT Surat</b> <br>
+  🚀 Currently studying at <b>SVNIT Surat</b> <br>
   🔥 Ranked among the top <b>5% of coders globally</b> on <a href="https://leetcode.com/u/alokkumar9019/">LeetCode</a>
 </p>
 ---
