@@ -6,11 +6,12 @@
 
 ### About Me 
 
-- 🔧 Currently pursuing **MSc in Chemistry**.
-- 🔗 Passionate about **web development** and building **problem-solving projects**.
-- 🌍 Exploring **new technologies** and **contributing to open-source**.
-- 🕊 LeetCode Knight (Improving DSA skills step by step!).
-- 🎮 In my free time, I enjoy creating apps like **Sudoku Solvers**, **Trackers**, and other tools.
+- 📚 Currently pursuing **MSc in Chemistry** at **SVNIT Surat**.
+- 💻 Passionate about **web development**, **problem-solving**, and **exploring open-source contributions**.
+- 🌟 Skilled in building real-world projects like **trackers**, **solvers**, and **visualization tools**.
+- 🏅 Avid coder on platforms like **LeetCode**, **Codeforces**, and **GeeksforGeeks**.
+- 🚀 Dedicated to improving my skills in **Data Structures and Algorithms**.
+- ✨ I love learning about **new technologies** and integrating them into my projects.
 
 ---
 
@@ -34,6 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alokkumar9019&show_icons=true&theme=radical" width="400px" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=alokkumar9019&theme=radical" width="400px" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkumar9019&layout=compact&theme=radical" width="400px" alt="Most Used Languages">
+  <img src="https://komarev.com/ghpvc/?username=alokkumar9019&style=for-the-badge&color=blue" alt="Profile Views">
 </div>
 
 ---
