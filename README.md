@@ -8,14 +8,14 @@
 </p>
 
 <p align="center">
-  🚀 Currently studying at <b>SVNIT Surat</b> <br>
+  🚀 Currently Frontend Developer at <b>PCLnXAI</b> <br>
   🔥 Ranked among the top <b>5% of coders globally</b> on <a href="https://leetcode.com/u/alokkumar9019/">LeetCode</a>
 </p>
 ---
 
 ### About Me 
 
-- 📚 Currently pursuing **MSc in Chemistry** at **SVNIT Surat**.
+- 📚 Graduated from **SVNIT Surat**.
 - 💻 Passionate about **web development**, **problem-solving**, and **exploring open-source contributions**.
 - 🌟 Skilled in building real-world projects like **trackers**, **solvers**, and **visualization tools**.
 - 🏅 Avid coder on platforms like **LeetCode**, **Codeforces**, and **GeeksforGeeks**.
